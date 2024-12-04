@@ -16,10 +16,19 @@
 # Manampilkan (read) data barang 
 query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat menampikan data.
 ![image](https://github.com/user-attachments/assets/dcc6f6fd-8ba8-424f-b8cb-b9b945595460)
-# Menambahkan (create)
+# Menambahkan (create) data barang
 untuk menambahkan data, kita harus masuk ke url tambah.php lalu mengisi format data barang setelah itu submit.
 ![image](https://github.com/user-attachments/assets/c98ad7aa-c7b5-409c-8e2a-9dc97bc28602)
+# Tampilan setelah menambah barang baru
 ![image](https://github.com/user-attachments/assets/02f3bfaf-53f6-4e9f-8a0f-edf52936575c)
+# Mengubah (update) data barang
+untuk mengubah data, kita masuk ke url ubah.php dan mengisi id barang yang akan di ubah, lalu ubah data yang ingin di update.
+![image](https://github.com/user-attachments/assets/21f795ec-773b-48d0-9886-b0d626d695df)
+# Tampilan setelah mengubah data
+![image](https://github.com/user-attachments/assets/b2ad9dd3-cb96-4d3b-8217-2494d4185e0b)
+
+
+
 
 
 
