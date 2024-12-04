@@ -13,7 +13,13 @@
 
 # Koneksi untuk menghubungkan PHP dengan database MySQL agar dapat mengelola suatu data.
 ![image](https://github.com/user-attachments/assets/6418902c-2eeb-4d95-933e-6a40b8d48371)
-# Manampilkan data barang
+# Manampilkan (read) data barang 
 query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat menampikan data.
 ![image](https://github.com/user-attachments/assets/dcc6f6fd-8ba8-424f-b8cb-b9b945595460)
+# Menambahkan (create)
+untuk menambahkan data, kita harus masuk ke url tambah.php lalu mengisi format data barang setelah itu submit.
+![image](https://github.com/user-attachments/assets/c98ad7aa-c7b5-409c-8e2a-9dc97bc28602)
+![image](https://github.com/user-attachments/assets/02f3bfaf-53f6-4e9f-8a0f-edf52936575c)
+
+
 
