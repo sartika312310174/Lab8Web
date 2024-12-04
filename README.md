@@ -13,7 +13,7 @@
 
 # Koneksi untuk menghubungkan PHP dengan database MySQL agar dapat mengelola suatu data.
 ![image](https://github.com/user-attachments/assets/6418902c-2eeb-4d95-933e-6a40b8d48371)
-# Manampilkan data barang dengan query $sql = `SELECT * FROM data_barang`; 
-dengan query select * from kita dapat menampikan data.
+# Manampilkan data barang
+query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat menampikan data.
 ![image](https://github.com/user-attachments/assets/dcc6f6fd-8ba8-424f-b8cb-b9b945595460)
 
