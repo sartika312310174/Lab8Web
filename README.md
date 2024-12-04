@@ -26,6 +26,11 @@ untuk mengubah data, kita masuk ke url ubah.php dan mengisi id barang yang akan 
 ![image](https://github.com/user-attachments/assets/21f795ec-773b-48d0-9886-b0d626d695df)
 # Tampilan setelah mengubah data
 ![image](https://github.com/user-attachments/assets/b2ad9dd3-cb96-4d3b-8217-2494d4185e0b)
+# Menghapus (delete) data barang
+untuk menghapus lakukan hal yang sama dengan memasukkan id barang yang akan di hapus
+![image](https://github.com/user-attachments/assets/8ad58e3e-b2b1-4eeb-bdbf-20117f5b7e74)
+# Tampilan setelah di hapus
+![image](https://github.com/user-attachments/assets/d23797db-f384-4d05-b11c-13829e878827)
 
 
 
