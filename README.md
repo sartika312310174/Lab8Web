@@ -18,7 +18,7 @@ query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat 
 ![image](https://github.com/user-attachments/assets/fbb6366a-08b6-414d-9385-199325e19017)
 # Menambahkan (create) data barang
 untuk menambahkan data, kita harus masuk ke url tambah.php lalu mengisi format data barang setelah itu submit.
-![image](https://github.com/user-attachments/assets/c98ad7aa-c7b5-409c-8e2a-9dc97bc28602)
+![image](https://github.com/user-attachments/assets/314236ac-4b6a-4f90-a4fc-405c5120c642)
 # Tampilan setelah menambah barang baru
 ![image](https://github.com/user-attachments/assets/02f3bfaf-53f6-4e9f-8a0f-edf52936575c)
 # Mengubah (update) data barang
