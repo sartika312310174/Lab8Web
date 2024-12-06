@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/6418902c-2eeb-4d95-933e-6a40b8d48371)
 # Manampilkan (read) data barang 
 query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat menampikan data.
-![image](https://github.com/user-attachments/assets/fbb6366a-08b6-414d-9385-199325e19017)
+![image](https://github.com/user-attachments/assets/0dfb97d0-eff4-4c3b-a58c-9a4bbd1b080d)
 # Menambahkan (create) data barang
 untuk menambahkan data, kita harus masuk ke url tambah.php lalu mengisi format data barang setelah itu submit.
 ![image](https://github.com/user-attachments/assets/314236ac-4b6a-4f90-a4fc-405c5120c642)
