@@ -20,17 +20,17 @@ query $sql = `SELECT * FROM data_barang`; dengan query select * from kita dapat 
 untuk menambahkan data, kita harus masuk ke url tambah.php lalu mengisi format data barang setelah itu submit.
 ![image](https://github.com/user-attachments/assets/bb0d019d-546e-4b0c-8419-5524563cc1e4)
 # Tampilan setelah menambah barang baru
-![image](https://github.com/user-attachments/assets/02f3bfaf-53f6-4e9f-8a0f-edf52936575c)
+![image](https://github.com/user-attachments/assets/74df2927-9561-4263-9e6b-4b91554049ae)
 # Mengubah (update) data barang
-untuk mengubah data, kita masuk ke url ubah.php dan mengisi id barang yang akan di ubah, lalu ubah data yang ingin di update.
-![image](https://github.com/user-attachments/assets/21f795ec-773b-48d0-9886-b0d626d695df)
-# Tampilan setelah mengubah data
-![image](https://github.com/user-attachments/assets/b2ad9dd3-cb96-4d3b-8217-2494d4185e0b)
+untuk mengubah suatu data, kita hanya perlu menekan tombol ubah maka kita akan di arahkan pada tampilan ubah, 
+saya telah mengubah informasi barang maka tampilannya seperti ini
+![image](https://github.com/user-attachments/assets/1075e56a-3748-4e15-a2b2-35b95592cfc1)
 # Menghapus (delete) data barang
-untuk menghapus lakukan hal yang sama dengan memasukkan id barang yang akan di hapus
-![image](https://github.com/user-attachments/assets/8ad58e3e-b2b1-4eeb-bdbf-20117f5b7e74)
+untuk menghapus lakukan hal yang sama yaitu menekan tombol hapus, maka akan diberikan pesan validasi seperti dibawah ini
+![image](https://github.com/user-attachments/assets/9f1a9b98-f024-4c2e-a2f0-f6e6e456bde2)
 # Tampilan setelah di hapus
-![image](https://github.com/user-attachments/assets/d23797db-f384-4d05-b11c-13829e878827)
+![image](https://github.com/user-attachments/assets/e29eae37-a016-4e7d-8046-6e53da897210)
+
 
 
 
